@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "讨论区",
+  "usingComponents": {
+    "post-card": "/components/PostCard"
+  }
+}

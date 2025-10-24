@@ -1,0 +1,70 @@
+page.data-v-17d80635 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+}
+.page-padding.data-v-17d80635 {
+  padding: 24rpx 32rpx;
+}
+.section-title.data-v-17d80635 {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin: 24rpx 0 16rpx;
+  color: #333;
+}
+.membership.data-v-17d80635 {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #f5f8ff 0%, #ffffff 60%);
+  padding: 40rpx 32rpx;
+}
+.membership__hero.data-v-17d80635 {
+  text-align: center;
+  margin-bottom: 40rpx;
+}
+.membership__title.data-v-17d80635 {
+  font-size: 36rpx;
+  font-weight: 600;
+  color: #1e9fff;
+}
+.membership__subtitle.data-v-17d80635 {
+  display: block;
+  margin-top: 12rpx;
+  color: #666;
+  font-size: 26rpx;
+}
+.membership__content.data-v-17d80635 {
+  display: flex;
+  flex-direction: column;
+  gap: 24rpx;
+}
+.membership__card.data-v-17d80635 {
+  background: #fff;
+  border-radius: 16rpx;
+  padding: 24rpx;
+  box-shadow: 0 8rpx 16rpx rgba(30, 159, 255, 0.1);
+}
+.membership__card-header.data-v-17d80635 {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.membership__card-name.data-v-17d80635 {
+  font-size: 32rpx;
+  font-weight: 600;
+}
+.membership__card-price.data-v-17d80635 {
+  font-size: 28rpx;
+  color: #ff6b6b;
+}
+.membership__card-benefits.data-v-17d80635 {
+  margin-top: 24rpx;
+  font-size: 26rpx;
+  color: #555;
+  display: flex;
+  flex-direction: column;
+  gap: 12rpx;
+}
+.membership__notice.data-v-17d80635 {
+  text-align: center;
+  font-size: 24rpx;
+  color: #888;
+}

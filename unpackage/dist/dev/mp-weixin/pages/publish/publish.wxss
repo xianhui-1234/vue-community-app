@@ -1,0 +1,102 @@
+page.data-v-177a8126 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+}
+.page-padding.data-v-177a8126 {
+  padding: 24rpx 32rpx;
+}
+.section-title.data-v-177a8126 {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin: 24rpx 0 16rpx;
+  color: #333;
+}
+.publish.data-v-177a8126 {
+  min-height: 100vh;
+}
+.publish__section.data-v-177a8126 {
+  background: #fff;
+  border-radius: 16rpx;
+  padding: 24rpx;
+  margin-bottom: 24rpx;
+}
+.publish__input.data-v-177a8126 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 28rpx;
+  padding: 20rpx 24rpx;
+  border: 1px solid #eee;
+  border-radius: 12rpx;
+}
+.publish__icon.data-v-177a8126 {
+  color: #999;
+}
+.publish__textarea.data-v-177a8126 {
+  margin-top: 20rpx;
+  min-height: 180rpx;
+  padding: 20rpx;
+  border-radius: 12rpx;
+  background: #f8f9fb;
+  font-size: 28rpx;
+}
+.publish__group.data-v-177a8126 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 24rpx;
+  gap: 24rpx;
+}
+.publish__group-item.data-v-177a8126 {
+  flex: 1;
+  font-size: 28rpx;
+  display: flex;
+  flex-direction: column;
+  gap: 12rpx;
+}
+.publish__field.data-v-177a8126 {
+  margin-top: 24rpx;
+  font-size: 28rpx;
+  display: flex;
+  flex-direction: column;
+  gap: 12rpx;
+}
+.publish__field input.data-v-177a8126 {
+  padding: 20rpx 24rpx;
+  border: 1px solid #eee;
+  border-radius: 12rpx;
+}
+.publish__label.data-v-177a8126 {
+  font-size: 26rpx;
+  color: #666;
+}
+.publish__images.data-v-177a8126 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16rpx;
+}
+.publish__image.data-v-177a8126 {
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 12rpx;
+}
+.publish__upload.data-v-177a8126 {
+  width: 200rpx;
+  height: 200rpx;
+  border: 1px dashed #ccc;
+  border-radius: 12rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 48rpx;
+  color: #bbb;
+}
+.publish__tip.data-v-177a8126 {
+  margin-top: 16rpx;
+  font-size: 24rpx;
+  color: #888;
+}
+.publish__submit.data-v-177a8126 {
+  margin-top: 16rpx;
+  background: linear-gradient(135deg, #1e9fff, #5b8bf7);
+  border: none;
+}

@@ -1,0 +1,33 @@
+page.data-v-c5500470 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+}
+.page-padding.data-v-c5500470 {
+  padding: 24rpx 32rpx;
+}
+.section-title.data-v-c5500470 {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin: 24rpx 0 16rpx;
+  color: #333;
+}
+.page.data-v-c5500470 {
+  min-height: 100vh;
+  background: #f5f6fa;
+  padding: 32rpx;
+}
+.section__title.data-v-c5500470 {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin-bottom: 24rpx;
+}
+.section__list.data-v-c5500470 {
+  display: flex;
+  flex-direction: column;
+}
+.section__empty.data-v-c5500470 {
+  margin-top: 160rpx;
+  text-align: center;
+  font-size: 26rpx;
+  color: #999;
+}

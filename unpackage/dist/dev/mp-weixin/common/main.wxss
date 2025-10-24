@@ -1,0 +1,17 @@
+page {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+}
+.page-padding {
+  padding: 24rpx 32rpx;
+}
+.section-title {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin: 24rpx 0 16rpx;
+  color: #333;
+}
+.app-root {
+  min-height: 100%;
+  background-color: #f5f6fa;
+}

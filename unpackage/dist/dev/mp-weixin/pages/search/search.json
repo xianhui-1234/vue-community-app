@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "搜索任务",
+  "usingComponents": {
+    "job-card": "/components/JobCard"
+  }
+}

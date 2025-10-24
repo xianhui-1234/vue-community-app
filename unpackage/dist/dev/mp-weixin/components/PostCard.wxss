@@ -1,0 +1,67 @@
+page.data-v-f3c9cfaa {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+}
+.page-padding.data-v-f3c9cfaa {
+  padding: 24rpx 32rpx;
+}
+.section-title.data-v-f3c9cfaa {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin: 24rpx 0 16rpx;
+  color: #333;
+}
+.post-card.data-v-f3c9cfaa {
+  background: #fff;
+  border-radius: 16rpx;
+  padding: 28rpx;
+  margin-bottom: 24rpx;
+  box-shadow: 0 6rpx 16rpx rgba(0, 0, 0, 0.06);
+}
+.post-card__header.data-v-f3c9cfaa {
+  display: flex;
+  align-items: center;
+}
+.post-card__avatar.data-v-f3c9cfaa {
+  width: 64rpx;
+  height: 64rpx;
+  border-radius: 50%;
+  margin-right: 16rpx;
+}
+.post-card__nickname.data-v-f3c9cfaa {
+  font-size: 30rpx;
+  font-weight: 600;
+  color: #333;
+}
+.post-card__meta.data-v-f3c9cfaa {
+  font-size: 24rpx;
+  color: #888;
+}
+.post-card__content.data-v-f3c9cfaa {
+  margin: 20rpx 0;
+  font-size: 28rpx;
+  line-height: 1.5;
+  color: #444;
+}
+.post-card__images.data-v-f3c9cfaa {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16rpx;
+}
+.post-card__image.data-v-f3c9cfaa {
+  width: 100%;
+  height: 180rpx;
+  border-radius: 12rpx;
+}
+.post-card__footer.data-v-f3c9cfaa {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20rpx;
+  font-size: 24rpx;
+  color: #666;
+}
+.post-card__action.data-v-f3c9cfaa {
+  display: flex;
+  align-items: center;
+  gap: 8rpx;
+}

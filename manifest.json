@@ -1,0 +1,30 @@
+{
+  "name": "社区互助就业平台",
+  "appid": "__UNI__COMMUNITYJOB",
+  "description": "面向宝妈群体的本地互助接单平台",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "app-plus": {
+    "distribute": {
+      "android": {
+        "permissions": [
+          "<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\" />",
+          "<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\" />",
+          "<uses-permission android:name=\"android.permission.INTERNET\" />"
+        ]
+      }
+    }
+  },
+  "mp-weixin": {
+    "appid": "wx16b8cede6263bd26",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "enhance": true
+    },
+    "optimization": {
+      "subPackages": true
+    }
+  }
+}

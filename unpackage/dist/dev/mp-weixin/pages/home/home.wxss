@@ -1,0 +1,70 @@
+page.data-v-92bb8f34 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+}
+.page-padding.data-v-92bb8f34 {
+  padding: 24rpx 32rpx;
+}
+.section-title.data-v-92bb8f34 {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin: 24rpx 0 16rpx;
+  color: #333;
+}
+.home.data-v-92bb8f34 {
+  height: 100vh;
+}
+.home__header.data-v-92bb8f34 {
+  margin: 24rpx 0;
+}
+.home__location.data-v-92bb8f34 {
+  display: flex;
+  align-items: baseline;
+  gap: 16rpx;
+}
+.home__city.data-v-92bb8f34 {
+  font-size: 40rpx;
+  font-weight: 700;
+}
+.home__distance.data-v-92bb8f34 {
+  font-size: 26rpx;
+  color: #999;
+}
+.home__search.data-v-92bb8f34 {
+  margin-top: 20rpx;
+  display: flex;
+  align-items: center;
+  gap: 12rpx;
+  background: #fff;
+  padding: 16rpx 24rpx;
+  border-radius: 32rpx;
+}
+.home__search-icon.data-v-92bb8f34 {
+  font-size: 28rpx;
+  color: #999;
+}
+.home__search-input.data-v-92bb8f34 {
+  flex: 1;
+  font-size: 28rpx;
+}
+.home__quick.data-v-92bb8f34 {
+  display: flex;
+  margin-bottom: 24rpx;
+}
+.home__quick .home__quick-item.data-v-92bb8f34 {
+  min-width: 150rpx;
+  background: #fff;
+  border-radius: 16rpx;
+  padding: 20rpx;
+  margin-right: 16rpx;
+  text-align: center;
+  box-shadow: 0 6rpx 12rpx rgba(0, 0, 0, 0.05);
+}
+.home__quick-icon.data-v-92bb8f34 {
+  font-size: 40rpx;
+  display: block;
+}
+.home__quick-label.data-v-92bb8f34 {
+  margin-top: 12rpx;
+  font-size: 26rpx;
+}

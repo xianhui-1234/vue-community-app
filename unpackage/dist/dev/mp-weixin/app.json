@@ -1,0 +1,71 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/publish/publish",
+    "pages/discussion/discussion",
+    "pages/messages/messages",
+    "pages/profile/profile",
+    "pages/profile/membership",
+    "pages/profile/certification",
+    "pages/profile/settings",
+    "pages/search/search",
+    "pages/discussion/comments",
+    "pages/profile/favorites",
+    "pages/profile/history",
+    "pages/profile/following",
+    "pages/profile/publish",
+    "pages/profile/orders",
+    "pages/profile/accept",
+    "pages/profile/reviews",
+    "pages/profile/topup",
+    "pages/profile/addresses",
+    "pages/profile/support",
+    "pages/discussion/post-editor"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "社区互助",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F5F6FA"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#1E9FFF",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "static/tab-home.png",
+        "selectedIconPath": "static/tab-home-active.png"
+      },
+      {
+        "pagePath": "pages/discussion/discussion",
+        "text": "讨论",
+        "iconPath": "static/tab-discussion.png",
+        "selectedIconPath": "static/tab-discussion-active.png"
+      },
+      {
+        "pagePath": "pages/publish/publish",
+        "text": "发布",
+        "iconPath": "static/tab-publish.png",
+        "selectedIconPath": "static/tab-publish-active.png"
+      },
+      {
+        "pagePath": "pages/messages/messages",
+        "text": "消息",
+        "iconPath": "static/tab-messages.png",
+        "selectedIconPath": "static/tab-messages-active.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的",
+        "iconPath": "static/tab-profile.png",
+        "selectedIconPath": "static/tab-profile-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

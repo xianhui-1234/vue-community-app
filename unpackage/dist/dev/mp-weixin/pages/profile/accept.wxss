@@ -1,0 +1,57 @@
+page.data-v-0fbcc5e7 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+}
+.page-padding.data-v-0fbcc5e7 {
+  padding: 24rpx 32rpx;
+}
+.section-title.data-v-0fbcc5e7 {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin: 24rpx 0 16rpx;
+  color: #333;
+}
+.page.data-v-0fbcc5e7 {
+  min-height: 100vh;
+  background: #f5f6fa;
+  padding: 32rpx;
+}
+.section__title.data-v-0fbcc5e7 {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin-bottom: 24rpx;
+}
+.orders__list.data-v-0fbcc5e7 {
+  display: flex;
+  flex-direction: column;
+  gap: 24rpx;
+}
+.orders__item.data-v-0fbcc5e7 {
+  background: #fff;
+  border-radius: 16rpx;
+  padding: 24rpx;
+  box-shadow: 0 6rpx 12rpx rgba(0, 0, 0, 0.05);
+}
+.orders__header.data-v-0fbcc5e7 {
+  display: flex;
+  justify-content: space-between;
+  color: #333;
+  font-size: 30rpx;
+}
+.orders__status.data-v-0fbcc5e7 {
+  color: #27ae60;
+}
+.orders__meta.data-v-0fbcc5e7 {
+  margin: 12rpx 0;
+  font-size: 26rpx;
+  color: #777;
+}
+.orders__actions.data-v-0fbcc5e7 {
+  display: flex;
+  gap: 16rpx;
+}
+.section__empty.data-v-0fbcc5e7 {
+  margin-top: 160rpx;
+  text-align: center;
+  color: #999;
+}

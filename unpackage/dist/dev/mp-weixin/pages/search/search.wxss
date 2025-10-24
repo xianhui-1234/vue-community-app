@@ -1,0 +1,80 @@
+page.data-v-4cedc0c6 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+}
+.page-padding.data-v-4cedc0c6 {
+  padding: 24rpx 32rpx;
+}
+.section-title.data-v-4cedc0c6 {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin: 24rpx 0 16rpx;
+  color: #333;
+}
+.search.data-v-4cedc0c6 {
+  min-height: 100vh;
+  padding: 32rpx;
+}
+.search__header.data-v-4cedc0c6 {
+  display: flex;
+  align-items: center;
+  gap: 16rpx;
+  margin-bottom: 32rpx;
+}
+.search__input-wrapper.data-v-4cedc0c6 {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  background: #f5f6f8;
+  border-radius: 32rpx;
+  padding: 12rpx 20rpx;
+}
+.search__icon.data-v-4cedc0c6 {
+  font-size: 28rpx;
+  color: #999;
+  margin-right: 12rpx;
+}
+.search__input.data-v-4cedc0c6 {
+  flex: 1;
+  font-size: 28rpx;
+}
+.search__clear.data-v-4cedc0c6 {
+  font-size: 26rpx;
+  color: #bbb;
+  padding-left: 12rpx;
+}
+.search__action.data-v-4cedc0c6 {
+  font-size: 28rpx;
+  color: #1e9fff;
+}
+.search__history.data-v-4cedc0c6 {
+  margin-bottom: 24rpx;
+}
+.search__chips.data-v-4cedc0c6 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16rpx;
+}
+.search__chip.data-v-4cedc0c6 {
+  padding: 12rpx 24rpx;
+  background: #f0f4ff;
+  border-radius: 24rpx;
+  font-size: 26rpx;
+  color: #444;
+}
+.search__clear-history.data-v-4cedc0c6 {
+  margin-top: 12rpx;
+  font-size: 24rpx;
+  color: #999;
+}
+.search__empty.data-v-4cedc0c6 {
+  color: #999;
+  font-size: 26rpx;
+  margin: 32rpx 0;
+  text-align: center;
+}
+.section-title.data-v-4cedc0c6 {
+  font-size: 30rpx;
+  font-weight: 600;
+  margin: 24rpx 0;
+}

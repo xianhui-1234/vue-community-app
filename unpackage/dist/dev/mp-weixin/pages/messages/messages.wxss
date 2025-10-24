@@ -1,0 +1,87 @@
+page.data-v-ac5467f4 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+}
+.page-padding.data-v-ac5467f4 {
+  padding: 24rpx 32rpx;
+}
+.section-title.data-v-ac5467f4 {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin: 24rpx 0 16rpx;
+  color: #333;
+}
+.messages.data-v-ac5467f4 {
+  min-height: 100vh;
+}
+.messages__section.data-v-ac5467f4 {
+  margin-top: 24rpx;
+}
+.messages__card.data-v-ac5467f4 {
+  background: #fff;
+  border-radius: 16rpx;
+  padding: 24rpx;
+  margin-bottom: 16rpx;
+  box-shadow: 0 6rpx 12rpx rgba(0, 0, 0, 0.05);
+}
+.messages__card-header.data-v-ac5467f4 {
+  display: flex;
+  align-items: center;
+  gap: 16rpx;
+}
+.messages__card-icon.data-v-ac5467f4 {
+  font-size: 36rpx;
+}
+.messages__card-title.data-v-ac5467f4 {
+  font-size: 28rpx;
+  font-weight: 600;
+  color: #333;
+}
+.messages__card-count.data-v-ac5467f4 {
+  margin-left: auto;
+  background: #ff6b6b;
+  color: #fff;
+  font-size: 22rpx;
+  padding: 4rpx 14rpx;
+  border-radius: 24rpx;
+}
+.messages__card-desc.data-v-ac5467f4 {
+  margin-top: 12rpx;
+  color: #777;
+  font-size: 24rpx;
+}
+.messages__conversation.data-v-ac5467f4 {
+  display: flex;
+  gap: 20rpx;
+  align-items: center;
+  background: #fff;
+  border-radius: 16rpx;
+  padding: 24rpx;
+  margin-bottom: 16rpx;
+}
+.messages__avatar.data-v-ac5467f4 {
+  width: 96rpx;
+  height: 96rpx;
+  border-radius: 50%;
+}
+.messages__conversation-body.data-v-ac5467f4 {
+  flex: 1;
+}
+.messages__conversation-header.data-v-ac5467f4 {
+  display: flex;
+  justify-content: space-between;
+  font-size: 26rpx;
+  color: #333;
+}
+.messages__preview.data-v-ac5467f4 {
+  margin-top: 8rpx;
+  font-size: 24rpx;
+  color: #777;
+}
+.messages__status.data-v-ac5467f4 {
+  background: #ff6b6b;
+  color: #fff;
+  font-size: 22rpx;
+  padding: 4rpx 14rpx;
+  border-radius: 24rpx;
+}
